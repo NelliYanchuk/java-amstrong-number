@@ -1,0 +1,1 @@
+# java-amstrong-number
