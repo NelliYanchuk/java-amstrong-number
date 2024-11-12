@@ -63,9 +63,9 @@ The application will prompt you to enter a number, then display whether the ente
 
 In Visual Studio Code, navigate to the **Testing** section to run tests and observe code coverage.
 
-<img src="images/test-cover-amstrong.png" alt="Test Coverage" width="30%">
+<img src="images/test-cover-armstrong.png" alt="Test Coverage" width="30%">
 
-Also you can find the test coverage screenshot here: `images/test-cover-amstrong.png`
+Also you can find the test coverage screenshot here: `images/test-cover-armstrong.png`
 
 ## Connect with Me:
 
