@@ -25,9 +25,9 @@ public class Communicator {
     private void resultAmstrongNum(int num) {
 
         if (AmstrongNumber.isAnAmstrongNumber(num)) {
-            System.out.println("Congrats! Yor number is the Amstrong number.");
+            System.out.println("Congrats! Yor number is the Armstrong number.");
         } else {
-            System.out.println("Sorry, your number is not an Amstrong number.");
+            System.out.println("Sorry, your number is not an Armstrong number.");
         }
     }
 
